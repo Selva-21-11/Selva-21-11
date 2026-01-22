@@ -1,25 +1,56 @@
-# Hi 👋, I'm Selvaranjan
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hi,%20This%20is%20Selva!&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&desc=Data%20and%20AI%20Enthusiast&descSize=20&descAlign=50&descAlignY=90&textBg=false&color=gradient"  />
+</div>
 
-### A passionate Data Analyst and Data Engineer
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Selva-21-11&label=Profile views&color=0e75b6&style=flat" alt="Selva-21-11" /> </p>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Selva-21-11.Selva-21-11&left_color=black&right_color=brown&left_text=Visitors"  />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Selva-21-11" alt="Selva-21-11" /></a> </p>
+###
 
-- 📫 How to reach me **selva.ranjan40@gmail.com**
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Selva-21-11&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&custom_title=Languages" height="150" alt="languages graph"  />
+</div>
 
-- 👨‍💻 All of my projects are available at **[https://selva-21-11.github.io/Data-Portfolio/](https://selva-21-11.github.io/Data-Portfolio/)**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/Selva-21-11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Selva-21-11" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/SELVA RANJAN" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="SELVA RANJAN" height="30" width="40" /></a>
-</p>
+<div align="left">
+  <a href="selva.ranjan40@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/selvaranjan/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=111111&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a></p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Selva-21-11&show_icons=true&locale=en&layout=compact" alt="Selva-21-11" /></p>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="30" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ai" height="30" alt="adobeillustrator logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=blender" height="30" alt="blender logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Selva-21-11&show_icons=true&locale=en" alt="Selva-21-11" /></p>
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Selva-21-11/Selva-21-11/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Selva-21-11/Selva-21-11/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Selva-21-11/Selva-21-11/output/pacman-contribution-graph.svg">
+</picture>
+
+###
